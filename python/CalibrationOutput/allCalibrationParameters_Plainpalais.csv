@@ -1,0 +1,4 @@
+Category;Average Error Diameter;Average Error Height;Max canopy Diameter;Max canopy Height;Max lifetime;r;Age at Plantation date;Growth stress
+Small;1;1;5;5;50;0.8;11;0.75
+Medium;0.075073398;0.250426811;7;9;30;0.88;6;0.65
+Large;0.103924243;0.200488764;12;13;70;0.8;10;0.65
