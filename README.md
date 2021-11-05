@@ -7,4 +7,4 @@ The "CanopyGrowth" folder contains the GAMA model itself and its required files.
 
 The "python" folder contains all python scripts for data treatment and formatting. It is linked to the "readme_PROGRAMMER" documentation file.
 
-The full report "CanopyGrowthABM_Report.pdf" for the project is also available in the root folder. 
+The full report "CanopyGrowthModel_Report.pdf" for the project is also available in the root folder. 
