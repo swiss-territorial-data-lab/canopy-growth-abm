@@ -7,4 +7,4 @@ The ["CanopyGrowth" folder](https://github.com/swiss-territorial-data-lab/canopy
 
 The ["python" folder](https://github.com/swiss-territorial-data-lab/canopy-growth-abm/blob/8f20e69359b0db12273fd957c7affb25d3f11116/python) contains all python scripts for data treatment and formatting. It is linked to the "readme_PROGRAMMER" documentation file.
 
-The [full report](https://github.com/swiss-territorial-data-lab/canopy-growth-abm/blob/8f20e69359b0db12273fd957c7affb25d3f11116/CanopyGrowth/CanopyGrowthModel_Report.pdf) for the project is also available in the root folder. 
+The [full report](https://github.com/swiss-territorial-data-lab/canopy-growth-abm/blob/8f20e69359b0db12273fd957c7affb25d3f11116/CanopyGrowthModel_Report.pdf) for the project is also available in the root folder. 
